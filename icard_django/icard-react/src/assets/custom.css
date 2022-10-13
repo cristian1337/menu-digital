@@ -1,0 +1,61 @@
+.contain {
+    object-fit: contain;
+}
+
+.busy {
+    background-color: #C3DDFD;
+    fill: #1E429F;
+}
+
+.pending {
+    background-color: #FDE8E8;
+    fill: #9B1C1C;
+}
+
+.border-gray {
+    border-bottom: 1px solid rgb(209, 209, 209);
+}
+
+.top-custom {
+    top: -5px;
+}
+
+.icon-nav {
+    justify-content: space-around;
+    height: 60px;
+}
+
+.icon {
+    width: 2rem;
+    height: 2rem;
+    color: white;
+}
+
+.card-categorie {
+    border-radius: 10px;
+    width: 200px;
+    -webkit-box-shadow: -5px 5px 12px 0px rgba(0,0,0,0.52);
+    -moz-box-shadow: -5px 5px 12px 0px rgba(0,0,0,0.52);
+    box-shadow: -5px 5px 12px 0px rgba(0,0,0,0.52);
+}
+
+.card-categorie-container {
+    gap: 15px;
+    padding: 0 12px;
+    margin-top: 16px;
+}
+
+.image-product {
+    width: 5rem;
+    height: 5rem;
+}
+
+.image-product-cart {
+    width: 3rem;
+    height: 3rem;
+}
+
+.btn-pedido {
+    bottom: 70px;
+    gap: 15px;
+}
